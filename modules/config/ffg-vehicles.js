@@ -27,6 +27,10 @@ export const vehicle_stats = {
     value: "Systemstrain",
     label: "SWFFG.VehicleHullStrain",
   },
+  "systemSynchronization": {
+    value: "Systemsynchronization",
+    label: "SWFFG.VehicleSynchronization",
+  },
 };
 
 export const vehicle_firingarcs = {
