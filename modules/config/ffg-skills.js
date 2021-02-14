@@ -34,6 +34,14 @@ export const skills = {
   "Streetwise": { value: "Streetwise", label: "SWFFG.SkillsNameStreetwise", abrev: "SWFFG.SkillsNameStreetwise" },
   "Survival": { value: "Survival", label: "SWFFG.SkillsNameSurvival", abrev: "SWFFG.SkillsNameSurvival" },
   "Vigilance": { value: "Vigilance", label: "SWFFG.SkillsNameVigilance", abrev: "SWFFG.SkillsNameVigilance" },
+  "AT-Field": { value: "AT-Field", label: "SWFFG.SkillsNameATField", abbrev: "SWFFG.SkillsNameATField" },
+  "Focus": { value: "Focus", label: "SWFFG.SkillsNameFocus", abbrev: "SWFFG.SkillsNameFocus" },
+  "Operating": { value: "Operating", label: "SWFFG.SkillsNameOperating", abbrev: "SWFFG.SkillsNameOperating" },
+  "Piloting": { value: "Piloting", label: "SWFFG.SkillsNamePiloting", abbrev: "SWFFG.SkillsNamePiloting" },
+  "Synchronization": { value: "Synchronization", label: "SWFFG.SkillsNameSynchronization", abbrev: "SWFFG.SkillsNameSynchronization" },
+  "Knowledge: Engineering": { value: "Knowledge: Engineering", label: "SWFFG.SkillsNameKnowledgeEngineering", abbrev: "SWFFG.SkillsNameKnowledgeEngineering" },
+  "Knowledge: Religion": { value: "Knowledge: Religion", label: "SWFFG.SkillsNameKnowledgeReligion", abbrev: "SWFFG.SkillsNameKnowledgeReligion" },
+  "Knowledge: Second Impact": { value: "Knowledge: Second Impact", label: "SWFFG.SkillsNameKnowledgeSecondImpact", abbrev: "SWFFG.SkillsNameKnowledgeSecondImpact" },
 };
 
 export const skills_knowledge_stripped = {
@@ -44,6 +52,9 @@ export const skills_knowledge_stripped = {
   "Knowledge: Underworld": "SWFFG.SkillsNameKnowledgeUnderworldStripped",
   "Knowledge: Warfare": "SWFFG.SkillsNameKnowledgeWarfareStripped",
   "Knowledge: Xenology": "SWFFG.SkillsNameKnowledgeXenologyStripped",
+  "Knowledge: Engineering": "SWFFG.SkillsNameKnowledgeEngineeringStripped",
+  "Knowledge: Religion": "SWFFG.SkillsNameKnowledgeReligionStripped",
+  "Knowledge: Second Impact": "SWFFG.SkillsNameKnowledgeSecondImpactStripped"
 };
 
 export const skills_combat = {
@@ -70,5 +81,21 @@ export const skills_combat = {
   "Ranged: Heavy": {
     value: "Ranged: Heavy",
     label: "SWFFG.SkillsNameRangedHeavy",
+  },
+  "Melee: Improvised": {
+    value: "Melee: Improvised",
+    label: "SWFFG.SkillsNameMeleeImprovised",
+  },
+  "Melee: Light": {
+    value: "Melee: Light",
+    label: "SWFFG.SkillsNameMeleeLight",
+  },
+  "Melee: Heavy": {
+    value: "Melee: Heavy",
+    label: "SWFFG.SkillsNameMeleeHeavy",
+  },
+  "Ranged: Improvised": {
+    value: "Ranged: Improvised",
+    label: "SWFFG.SkillsNameMeleeImprovised",
   },
 };

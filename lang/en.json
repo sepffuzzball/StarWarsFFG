@@ -443,5 +443,16 @@
   "SWFFG.EnableSortTalentsByActivationHint": "Enable grouping Talents by activation",
   "SWFFG.UseGlobalSetting": "Use Global",
   "SWFFG.OptionValueYes": "Yes",
-  "SWFFG.OptionValueNo": "No"
+  "SWFFG.OptionValueNo": "No",
+  "SWFFG.SkillsNameATField": "AT-Field",
+  "SWFFG.SkillsNameFocus": "Focus",
+  "SWFFG.SkillsNameSynchronization": "Synchronization",
+  "SWFFG.SkillsNameKnowledgeEngineering": "Knowledge: Engineering",
+  "SWFFG.SkillsNameKnowledgeReligion": "Knowledge: Religion",
+  "SWFFG.SkillsNameKnowledgeSecondImpact": "Knowledge: Second Impact",
+  "SWFFG.SkillsNameMeleeImprovised": "Melee Improvised",
+  "SWFFG.SkillsNameMeleeImprovisedAbbreviation": "MI",
+  "SWFFG.SkillsNameRangedImprovised": "Ranged Improvised",
+  "SWFFG.SkillsNameRangedImprovisedAbbreviation": "RI",
+  "SWFFG.VehicleSynchronization": "Synchronization"
 }
