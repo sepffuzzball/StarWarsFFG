@@ -27,9 +27,17 @@ export const vehicle_stats = {
     value: "Systemstrain",
     label: "SWFFG.VehicleHullStrain",
   },
-  "systemSynchronization": {
-    value: "Systemsynchronization",
-    label: "SWFFG.VehicleSynchronization",
+  "vehicleBrawn": {
+    value: "Brawn",
+    label: "SWFFG.VehicleBrawn",
+  },
+  "vehicleAgility": {
+    value: "Agility",
+    label: "SWFFG.VehicleAgility",
+  },
+  "vehicleCunning": {
+    value: "Cunning",
+    label: "SWFFG.VehicleCunning",
   },
 };
 
@@ -61,5 +69,9 @@ export const vehicle_firingarcs = {
   "All": {
     value: "All",
     label: "SWFFG.VehicleFiringArcAll",
+  },
+  "Melee": {
+    value: "Melee",
+    label: "SWFFG.VehicleFiringArcMelee",
   },
 };

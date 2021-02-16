@@ -103,9 +103,9 @@
   "SWFFG.VehiclePassengerCapacity": "Pass Cpty",
   "SWFFG.VehicleTabCargo": "Cargo & Equipment",
   "SWFFG.VehicleTabDescription": "Biography",
-  "SWFFG.VehicleTabShipWeapons": "Ship Weapon",
-  "SWFFG.VehicleTabShipAttachments": "Ship Attachment",
-  "SWFFG.VehicleTabShipCargoHold": "Cargo Hold Item",
+  "SWFFG.VehicleTabShipWeapons": "EVA Weapon",
+  "SWFFG.VehicleTabShipAttachments": "EVA Attachment",
+  "SWFFG.VehicleTabShipCargoHold": "Power Source",
   "SWFFG.VehicleTabFiringArc": "Firing Arc",
   "SWFFG.VehicleTabDamage": "Damage",
   "SWFFG.VehicleTabRange": "Range",
@@ -455,5 +455,9 @@
   "SWFFG.SkillsNameRangedImprovised": "Ranged Improvised",
   "SWFFG.SkillsNameRangedImprovisedAbbreviation": "RI",
   "SWFFG.VehicleSynchronization": "Synchronization",
-  "SWFFG.ATField": "AT-Field"
+  "SWFFG.VehicleAgility": "Brawn",
+  "SWFFG.VehicleBrawn": "Agility",
+  "SWFFG.VehicleCunning": "Cunning",
+  "SWFFG.ATField": "AT-Field",
+  "SWFFG.VehicleFiringArcMelee": "Melee"
 }

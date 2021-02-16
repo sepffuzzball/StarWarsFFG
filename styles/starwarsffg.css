@@ -2163,7 +2163,7 @@ img {
 }
 
 .starwarsffg.sheet.actor .vehicle .defense-block .defense-value.fore {
-  top: 0;
+  top: 50%;
   left: 50%;
   transform: translateX(-50%);
 }
