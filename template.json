@@ -275,7 +275,7 @@
             "characteristic": "Brawn",
             "groupskill": false,
             "careerskill": false,
-            "type": "General",
+            "type": "Evangelion",
             "max": 6
           },
           "Skulduggery": {
@@ -458,6 +458,21 @@
           "min": 0,
           "max": 10,
           "label": "System Strain"
+        },
+        "vehicleBrawn": {
+          "value": 0,
+          "type": "Number",
+          "label": "Brawn"
+        },
+        "vehicleAgility": {
+          "value": 0,
+          "type": "Number",
+          "label": "Agility"
+        },
+        "vehicleCunning": {
+          "value": 0,
+          "type": "Number",
+          "label": "Cunning"
         },
         "shields": {
           "fore": 0,
