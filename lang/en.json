@@ -454,5 +454,6 @@
   "SWFFG.SkillsNameMeleeImprovisedAbbreviation": "MI",
   "SWFFG.SkillsNameRangedImprovised": "Ranged Improvised",
   "SWFFG.SkillsNameRangedImprovisedAbbreviation": "RI",
-  "SWFFG.VehicleSynchronization": "Synchronization"
+  "SWFFG.VehicleSynchronization": "Synchronization",
+  "SWFFG.ATField": "AT-Field"
 }
